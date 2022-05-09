@@ -1,0 +1,9 @@
+Host github.com
+   Hostname github.com
+   User srk1195
+   IdentityFile ~/.ssh/id_rsa_github
+
+Host git.cs.dal.ca
+   Hostname git.cs.dal.ca
+   User kodumuru
+   IdentityFile ~/.ssh/id_rsa_gitlab
